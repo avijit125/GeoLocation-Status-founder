@@ -1,0 +1,22 @@
+a{
+	font-family: 'Oswald', sans-serif;
+	font-style: italic;
+	color: blue;
+}
+h1{
+	font-family: 'Lato', sans-serif;
+	color: white;
+}
+p{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 25px;
+	color: white;
+}
+body{
+	background-image: url("https://www.cosmographics.co.uk/images/products/arty-political-world-map3835.png");
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}  
+.box{
+	background-color:#154360;  
+}
